@@ -52,7 +52,7 @@ function App() {
       setIsActive(true);
     }
   };
-
+//
   return (
     <div className="App">
       <label htmlFor="">Enter Minutes:</label>
